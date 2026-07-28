@@ -5,7 +5,6 @@ Automated email classification and reply workflow using n8n, OpenAI, and Gmail.
 
 An automated n8n workflow designed to handle incoming emails, classify their intent via OpenAI, and automatically organize/reply based on message categories.
 
-![Workflow Architecture](workflow.png)
 
 ## Overview
 This pipeline monitors unread emails, parses sender data, formats context-aware greetings, and categorizes messages before taking action. 
